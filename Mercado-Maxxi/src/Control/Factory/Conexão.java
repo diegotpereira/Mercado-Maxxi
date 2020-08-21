@@ -9,7 +9,7 @@ import java.util.Properties;
 /**
 * Classe que cria nova conexão com servidor a partir das configurações do arquivo de Configs.
 * 
-* @author Mendex e Bigode
+* @author Diego
 */
 public class Conexão {
 	protected Connection con;
