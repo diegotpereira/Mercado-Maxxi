@@ -54,7 +54,7 @@ public class SobreOSistema extends JFrame {
 		txtpnOMercadohumilde.setEditable(false);
 		txtpnOMercadohumilde.setBackground(UIManager.getColor("Button.background"));
 		txtpnOMercadohumilde.setFont(new Font("Tahoma", Font.PLAIN, 13));
-		txtpnOMercadohumilde.setText("Um projeto open-source desenvolvido para estudos.\r\n    A id\u00E9ia foi desenvolver um sistema PDV ( ponto de venda) de frente de caixa que integrasse ao controle de estoque e log das vendas utilizando os padr\u00F5es desenvolvimento MVC e DAO.\r\n\r\n\r\n< by \\>\r\n     ~Diego Pereira\r\n\r\n\r\n\r\n\r\n\r\nObrigado.");
+		txtpnOMercadohumilde.setText("Um projeto open-source desenvolvido para estudos.\r\nA id\u00E9ia foi desenvolver um sistema PDV ( ponto de venda) de frente de caixa que integrasse ao controle de estoque e log das vendas utilizando os padr\u00F5es desenvolvimento MVC e DAO.\r\n\r\n\r\n< by \\>\r\n     Diego Pereira\r\n\r\n\r\n\r\n\r\n\r\nObrigado.");
 		txtpnOMercadohumilde.setBounds(29, 51, 318, 278);
 		contentPane.add(txtpnOMercadohumilde);
 		
