@@ -6,11 +6,6 @@ import java.sql.Connection;
 import java.sql.SQLException;
 import java.util.Properties;
 
-/**
-* Classe que cria nova conexão com servidor a partir das configurações do arquivo de Configs.
-* 
-* @author Diego
-*/
 public class Conexão {
 	protected Connection con;
 	public Conexão() {
